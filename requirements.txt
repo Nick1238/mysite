@@ -1,0 +1,4 @@
+Django~=4.2.1
+asgiref
+sqlparse==0.4.4
+python-dotenv~=1.0.0
